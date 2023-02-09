@@ -1,16 +1,11 @@
-# background-color
+# Capture Camera
 
-DOM study project
+Android app that capture image and save it to phone's storage
 
-Interaction exercises between HTML, JS and CSS
-
-Creating a Web page that changes the background randomly and generates the RGB color data
 
 <div align="center">
-  <a href="https://backgroundcoloradrianalatorre.netlify.app/" target"_blank">Demo</a>
+  <a href="https://www.youtube.com/watch?v=wc-jJgafToQ&ab_channel=AdrianaLatorre" target"_blank">Demo</a>
   </div>
   <br/>
 
-![background](https://user-images.githubusercontent.com/101880897/160157145-c5ae8a1c-4a44-478b-b565-984ae89efb7c.png)
-
-
+![Screenshot from 2023-02-09 16-51-58](https://user-images.githubusercontent.com/101880897/217924419-8f7a68bb-bf74-43b6-a0cd-faa9076e9ffb.png)
